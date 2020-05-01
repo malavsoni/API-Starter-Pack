@@ -1,0 +1,32 @@
+{
+  "name": "api-starter-pack",
+  "version": "1.0.0",
+  "description": "Basic CRUD Operation with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malavsoni/API-Starter-Pack.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "basic",
+    "crud"
+  ],
+  "author": "Malav Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malavsoni/API-Starter-Pack/issues"
+  },
+  "homepage": "https://github.com/malavsoni/API-Starter-Pack#readme",
+  "dependencies": {
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "joi-objectid": "^3.0.1",
+    "mongoose": "^5.9.11"
+  }
+}
