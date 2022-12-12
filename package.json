@@ -24,7 +24,7 @@
   "homepage": "https://github.com/malavsoni/API-Starter-Pack#readme",
   "dependencies": {
     "config": "^3.3.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "joi": "^14.3.1",
     "joi-objectid": "^3.0.1",
     "mongoose": "^5.9.11"
